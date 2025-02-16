@@ -1,0 +1,16 @@
+.kotak {
+    height: 80px;
+    width: 80px;
+    background-color: salmon;
+    text-align: center;
+    line-height: 5;
+    border: solid 2px black;
+}
+
+.baris2 {
+    display: flex;
+}
+
+.baris3 {
+    display: flex;
+}

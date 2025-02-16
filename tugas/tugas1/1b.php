@@ -8,19 +8,19 @@
 <body>
     <?php
         $npm = 94;
-        echo "<b>$npm</b></br>";
+        echo "Aku adalah angka <b>$npm</b></br>";
 
         $hasilkali = $npm*5;
-        echo "<b>$hasilkali</b></br>";
+        echo "Jika aku dikali angka 5, maka aku sekarang menjadi <b>$hasilkali</b></br>";
 
         $hasilbagi = $hasilkali/2;
-        echo "<b>$hasilbagi</b></br>";
+        echo "Jika aku dibagi angka 2, maka aku sekarang menjadi <b>$hasilbagi</b></br>";
 
         $hasiltambah = $hasilbagi+75;
-        echo "<b>$hasiltambah</b></br>";
+        echo "Jika aku ditamnah angka 75, maka aku sekarang menjadi <b>$hasiltambah</b></br>";
 
         $hasilkurang = $hasiltambah-20;
-        echo "<b>$hasilkurang</b></br>";
+        echo "Jika aku dikurang angka 20, maka aku sekarang menjadi <b>$hasilkurang</b></br>";
     ?>
 </body>
 </html>

@@ -28,16 +28,6 @@ if (isset($_POST["submit"])) {
             font-family: "Poppins", sans-serif;
         }
 
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            background: url(a.png) no-repeat;
-            background-size: cover;
-            background-position: center;
-        }
-
         .content {
             width: 420px;
             background: rgba(255, 255, 255, 0.1);
